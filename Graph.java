@@ -1,3 +1,5 @@
+/** By: Jetmir Halili */
+
 // this class contains all info about Kosovo map, all their cities and their distance
 // if you want to modify for any other country you must change only this class and others must be the same
 // of course to visualise you must change Window class too
@@ -25,17 +27,17 @@ public class Graph{
       nodes[13]= new Node("Malisheve",13);
       nodes[14]= new Node("Kamenice",14);
       nodes[15]= new Node("Viti",15);
-      nodes[16]= new Node("Deçan",16);
+      nodes[16]= new Node("DeÃ§an",16);
       nodes[17]= new Node("Istog",17);
       nodes[18]= new Node("Kline",18);
       nodes[19]= new Node("Skenderaj",19);
       nodes[20]= new Node("Dragash",20);
       nodes[21]= new Node("Fushe Kosove",21);
-      nodes[22]= new Node("Kaçanik",22);
+      nodes[22]= new Node("KaÃ§anik",22);
       nodes[23]= new Node("Shtime",23);
       nodes[24]= new Node("Obiliq",24);
       nodes[25]= new Node("Leposaviq",25);
-      nodes[26]= new Node("Zveçan",26);
+      nodes[26]= new Node("ZveÃ§an",26);
       nodes[27]= new Node("Shterpce",27);
       nodes[28]= new Node("Novoberde",28);
       nodes[29]= new Node("Zubin Potok",29);
